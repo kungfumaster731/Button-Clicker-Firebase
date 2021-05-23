@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719267474013",
+    "project_id": "button-clicker-9d665",
+    "storage_bucket": "button-clicker-9d665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719267474013:android:77f57e2edf4e9fc11dfbb4",
+        "android_client_info": {
+          "package_name": "com.example.buttonclicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719267474013-uof5c547qd1ogq779kfbuicsdod2cmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Y3hagD_dF5zsgoblSGp-ywzNquC0MK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719267474013-uof5c547qd1ogq779kfbuicsdod2cmvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
